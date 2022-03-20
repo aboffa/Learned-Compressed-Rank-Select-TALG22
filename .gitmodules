@@ -1,0 +1,6 @@
+[submodule "lib/la_vector"]
+	path = lib/la_vector
+	url = https://github.com/gvinciguerra/la_vector.git
+[submodule "lib/succinct"]
+	path = lib/succinct
+	url = https://github.com/ot/succinct.git
