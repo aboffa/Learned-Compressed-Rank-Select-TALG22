@@ -22,7 +22,7 @@ To compile the executables, issue the following commands:
     cmake . -B build -DCMAKE_BUILD_TYPE=Release
     cd build && make
 
-The latter commands generates the executable for the benchmark (`my_benchmark`). To get the already manipulated datasets you can download them [here](https://drive.google.com/drive/folders/1K78tr9maRMPBhjx0Uo_SklogPY9wC7S5?usp=sharing).
+The latter commands generates the executable for the benchmark (`my_benchmark`). To get the already manipulated datasets you can download them [here](https://drive.google.com/file/d/1YAktyWsjnSiOXTCJYpPdM1aozyMZ3-00/view).
 
 The usage of `my_benchmark` is well explained in [this file](https://github.com/aboffa/Learned-Compressed-Rank-Select-TALG22/blob/main/include/arguments_parser.hpp).
 
